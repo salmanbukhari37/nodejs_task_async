@@ -1,7 +1,7 @@
 # Caremerge Test
 
 - This test is divided into three parts. You will implement the same task three times, each using a different control flow strategy.
-- This code demonstrates a raw Node.js approach.
+- This code demonstrates a async Node.js approach.
 
 ## Requirements
 
